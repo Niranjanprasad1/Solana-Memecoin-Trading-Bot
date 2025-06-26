@@ -44,6 +44,7 @@ cd Solana-Memecoin-Trading-Bot-Package
 
 ### Step 2: Choose a bot and install dependencies
 
+For example:
 ```bash
 cd raydium-sniper-bot
 npm install
@@ -51,10 +52,10 @@ npm install
 
 ### Step 3: Set up environment variables
 
+Edit .env with your private keys, RPC, target pools, etc.
 ```bash
 cp .env.example .env
 ```
-Edit .env with your private keys, RPC, target pools, etc.
 
 ### Step 4: Run the bot
 
@@ -66,14 +67,18 @@ npm run dev
 
 Outputs are logged to terminal, with optional Telegram or Discord webhook support.
 
+---
+
 ## 📓 Documentation
 
 Each bot includes:
 
-- .env.example for configuration setup
-- Step-by-step usage guide in README.md
+- `.env.example` for configuration setup
+- Step-by-step usage guide in `README.md`
 - Comments in code for clarity
 - RPC provider tips and optimization strategies
+
+---
 
 ## 🔐 Security Notice
 
@@ -82,6 +87,8 @@ These bots interact with live wallets and real tokens:
 - Always test on dev wallets first
 - Secure your private keys and .env files
 - Use rate limits and fail-safes when operating with real assets
+
+---
 
 ## 💬 Support & Contact
 
