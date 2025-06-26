@@ -16,10 +16,10 @@ Whether you're sniping launches, bundling buys, mimicking whale trades, or creat
 | **PumpFun Bundler** | Bundles buy txns across multiple wallets for PumpFun | Multi-wallet bundling |
 | **PumpFun Volume Bot** | Maintains or boosts token volume based on market logic | Adaptive buying |
 | **PumpFun → PumpSwap Bundler** | Snipes on PumpFun and swaps on PumpSwap | Multi-platform executor |
-| **Copy Trading Bot** | Mirrors trades from selected whale wallets | Uses Jupiter API, low-latency |
-| **Arbitrage Bot** | Identifies and exploits arbitrage opportunities across DEXes | Fast route detection |
 | **Meteora Volume Bot** | Generates volume on Meteora using distributed wallet strategy | Meteora SDK, buy/sell loop |
 | **BonkFun Volume Bot** | Volume-focused bot for BonkFun ecosystem | Auto liquidity + custom RPC |
+| **Copy Trading Bot** | Mirrors trades from selected whale wallets | Uses Jupiter API, low-latency |
+| **Arbitrage Bot** | Identifies and exploits arbitrage opportunities across DEXes | Fast route detection |
 
 ---
 
