@@ -30,4 +30,3 @@ npm run start
 ### Contacts
 
 - Telegram: https://t.me/Tru3B1iss
-- Twitter: https://x.com/XTruebliss
