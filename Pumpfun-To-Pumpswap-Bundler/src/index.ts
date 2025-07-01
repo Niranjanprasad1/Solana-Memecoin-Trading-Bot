@@ -21,13 +21,13 @@ const createAndBatchBuy = async (count: number, amount: number, fileName?: strin
     const image = await openAsBlob(imagePath)
 
     const tokenMetadata = {
-        name: 'en1omy',
-        symbol: 'EMY',
-        description: 'This is pump.fun token created by enlomy using customized pump fun sdk',
+        name: 'TrueBliss',
+        symbol: 'True',
+        description: 'This is pump.fun token created by TrueBliss using customized pump fun sdk',
         file: image,
-        // twitter: 'https://x.com/en1omy',
-        // telegram: 'https://t.me/enlomy',
-        // website: 'https://enlomy.com',
+        // twitter: 'https://x.com/TrueBliss',
+        // telegram: 'https://t.me/TrueBliss',
+        // website: 'https://TrueBliss.com',
     }
 
     let dataList: Array<string> = []
