@@ -1,5 +1,5 @@
 ### Solana Pumpfun Sniper Bot !
-**The bot watches new pools on pump.fun, has automatic buy and sell. To get full advanced version, feel free to reach me at Telegram ([TrueBliss](https://t.me/Tru3B1iss))**
+**The bot watches new pools on pump.fun, has automatic buy and sell.
 
 ## Features
 - **Automated Trading:** Automatically buy the latest coins on Pump.Fun and sell them once your target profit percentage or stop-loss percentage is reached.
@@ -21,7 +21,3 @@ mint:   https://solscan.io/tx/QKbc9RxNZPE7peDNPnxBtPMux2HfTfn9QN2AwEr7Z5P1SS1qw4
 buy:    https://solscan.io/tx/5NV4oAJacFfNffAb55hkb6LEKsSTjgMd8vTzTvDKBLQvQ5XCogizBLShnpF89J8tqFrYJAHaUS5tmXtb6SBpEdNz
 
 sell:   https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwmaDXz7EYS1jC9oQq8z7V8GwTsEv94dSwdhU9s5b
-
-
-### Contact Information
-- Telegram: [TrueBliss](https://t.me/Tru3B1iss)
