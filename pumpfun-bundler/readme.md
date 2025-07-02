@@ -6,7 +6,6 @@ This open-source and free tool offers the most efficient self-bundling script fo
 
 Enjoy launches that are completely bubble maps-proof and anti-Photon SB marks.
 
-For more details, contact here: telegram: [@Tru3B1iss](https://t.me/Tru3B1iss)
 
 ## Features
 
