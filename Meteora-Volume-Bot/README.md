@@ -1,25 +1,54 @@
+# 🔁 Meteora Volume Bot
 
-# Meteora Volume Bot
+A high-performance Solana bot designed to **automate SOL distribution** and execute **endless buy/sell swaps** on the Raydium DEX using **Jupiter V6 aggregation**. This bot creates more natural trading activity, increases the number of unique makers, and generates realistic volume pressure across pools.
 
-This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
+---
 
+## ⚙️ Overview
 
-### What is the main difference between the former volume booster and the updated one?
+The Meteora Volume Bot distributes SOL to newly generated wallets, then performs randomized buy and sell operations to simulate organic trading behavior. It’s optimized to:
+- Increase pool volume
+- Enhance maker diversity
+- Apply controlled buy/sell pressure
+- Reclaim token rent for efficient wallet gathering
 
-## ⭐ Last Version's Demerits
-- ✔️ **Repetitive buy and sell with one wallet**: The last version of the Raydium Volume Bot used fixed wallets, so it was apparent on DexScreener that some wallets performed repetitive buy and sell actions.
-- ✔️ **No increase in the number of makers**: It didn't increase the number of pool makers, only the volume.
-- ✔️ **Gathering token instead of SOL**: When gathering, if there were tokens left, it didn't sell them before gathering. Instead, it just gathered tokens to the main wallet.
-- ✔️ **Equal number of buys and sells**: One-time buy and one-time sell actions left sell pressure at the end, as there was always a sell at the end of the volume operation.
+---
 
-## 🚀 Improvements
-- ✅ **Transferring SOL to new wallet**: After buying and selling in one wallet, it transfers SOL to a newly created wallet and continues buying and selling there.
-- ✅ **Maker increase**: New wallets are created every round of buying and selling, increasing the number of makers.
-- ✅ **Sell before gather**: When gathering, if there are tokens left in the wallet, it sells the tokens first and gathers only SOL (the token account rent of 0.00203 SOL is reclaimed).
-- ✅ **More buys than sells**: It randomly buys twice with SOL in the wallet and sells all tokens after some time, making the number of buys twice as many as sells, thus creating more buy pressure.
+## 🔄 What’s Improved in the New Version?
 
-## ❤️ Features
-- 👌 **Automated SOL Distribution**: Distributes SOL to new wallets.
-- 👌 **Endless Buy and Sell Swaps**: Performs simultaneous buy and sell transactions.
-- 👌 **Swap with Jupiter V6**: Swap is performed with Jupiter V6 swap aggregator.
-- 👌 **Configurable Parameters**: Allows customization of buy amounts, intervals, distribution settings, and more.
+### 🛑 Previous Version Limitations
+- **Single Wallet Usage**: Reused the same wallet for all swaps, making on-chain behavior obvious and repetitive.
+- **No Maker Growth**: Failed to increase unique market makers — only volume changed.
+- **Inefficient Gathering**: Did not convert leftover tokens to SOL before gathering.
+- **1:1 Buy/Sell Ratio**: Equal buys and sells often left pools with net sell pressure.
+
+---
+
+### ✅ Latest Enhancements
+- **Rotating Wallets**: After each round of swaps, SOL is sent to a new wallet to continue operations.
+- **More Makers**: Each new round uses a fresh wallet, increasing the number of unique pool participants.
+- **Smart Gathering**: Tokens are sold before gathering; only SOL is returned to the main wallet. Token account rent (≈ 0.00203 SOL) is also reclaimed.
+- **Buy Bias**: Performs two buys per wallet before a single sell, creating net buy pressure across the volume run.
+
+---
+
+## ❤️ Key Features
+
+- 🔹 **Automated SOL Distribution**: Dynamically creates and funds wallets.
+- 🔹 **Endless Buy/Sell Swaps**: Executes randomized volume operations continuously.
+- 🔹 **Jupiter V6 Integration**: Utilizes the latest Jupiter aggregator for best trade routing.
+- 🔹 **Configurable Settings**: Easily adjust distribution amount, buy frequency, delay intervals, and more.
+
+---
+
+## ⚠️ Disclaimer
+
+> This tool is provided for educational and testing purposes only. Use responsibly. The authors are not liable for any misuse or financial loss.
+
+---
+
+## 🛠️ Contributing
+
+We welcome contributions and suggestions. If you’d like to help improve this bot, feel free to submit an issue or pull request.
+
+---
