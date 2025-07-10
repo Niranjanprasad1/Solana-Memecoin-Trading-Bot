@@ -1,6 +1,6 @@
 # Pumpfun voume and market maker bot
 
-This is script that optimize market making process by automatic buy and sell, boost token volume. This is for giving basic understanding about volume bot and market maker. Feel free to reach out of me when you need full script and custom requirement[Telegram: https://t.me/Tru3B1iss].
+This is script that optimize market making process by automatic buy and sell, boost token volume. This is for giving basic understanding about volume bot and market maker. Feel free to reach out of us when you need full script and custom requirement.
 
 ## Functionality
 
@@ -26,7 +26,3 @@ npm install
 # Start the application
 npm run start
 ```
-
-### Contacts
-
-- Telegram: https://t.me/Tru3B1iss
