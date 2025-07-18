@@ -2,6 +2,8 @@
 
 A high-performance LaunchLab volume bot that interacts with the Bonk.fun token swap. This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell bonk.fun token swap transactions on the LaunchLab and withdraw remain fees and close token accounts simultaneously.
 
+- Live Link: [Bonkspy](https://bonkspy.vercel.app/)
+
 ## 📌 Features
 
 - ✅ Create multiple wallets and airdrop SOL automatically 
