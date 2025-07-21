@@ -18,6 +18,7 @@ Whether you're sniping launches, bundling buys, mimicking whale trades, or creat
 | **PumpFun → PumpSwap Bundler** | Snipes on PumpFun and swaps on PumpSwap | Multi-platform executor |
 | **Meteora Volume Bot** | Generates volume on Meteora using distributed wallet strategy | Meteora SDK, buy/sell loop |
 | **BonkFun Volume Bot** | Volume-focused bot for BonkFun ecosystem | Auto liquidity + custom RPC |
+| **BonkFun Bundler** | Bundles token creation and Buy txns across multiple wallets for Bonkfun | Multi-wallet bundling |
 | **Copy Trading Bot** | Mirrors trades from selected whale wallets | Uses Jupiter API, low-latency |
 | **Arbitrage Bot** | Identifies and exploits arbitrage opportunities across DEXes | Fast route detection |
 
