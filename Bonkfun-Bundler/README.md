@@ -65,8 +65,3 @@ bonkfun-bundler/
 └── package.json
 ```
 
-## 📩 Contact  
-For inquiries, custom integrations, or tailored solutions, reach out via:  
-
-📧 **E-Mail**: [hyperbuildx@adamglab.dev](mailto:hyperbuildx@adamglab.dev)  
-💬 **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)
