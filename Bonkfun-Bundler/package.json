@@ -1,6 +1,6 @@
 {
   "name": "Bonkfun-bundler",
-  "author": "TrueBliss",
+  "author": "Kei",
   "scripts": {
     "start": "ts-node index.ts",
     "single": "ts-node oneWalletBundle.ts",
