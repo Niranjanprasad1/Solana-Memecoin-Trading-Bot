@@ -1,6 +1,6 @@
 {
   "name": "Pumpfun-volume-and-market-maker",
-  "author": "cutupdev",
+  "author": "Kei",
   "scripts": {
     "start": "ts-node index.ts",
     "close": "ts-node ./processes/process_bundle/closeLut.ts",
