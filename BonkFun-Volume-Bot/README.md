@@ -17,7 +17,7 @@ A high-performance LaunchLab volume bot that interacts with the Bonk.fun token s
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/hyperbuildx/Bonkfun-Volume-Bot.git
+git clone https://github.com/keidev123/Bonkfun-Volume-Bot.git
 cd Bonkfun-Volume-Bot
 ```
 ### 2. Config Env file
