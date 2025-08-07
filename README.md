@@ -39,7 +39,7 @@ Whether you're sniping launches, bundling buys, mimicking whale trades, or creat
 ### Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/HyperBuildX/Solana-Memecoin-Trading-Bot-Package
+git clone https://github.com/keidev123/Solana-Memecoin-Trading-Bot-Package
 cd Solana-Memecoin-Trading-Bot-Package
 ````
 
