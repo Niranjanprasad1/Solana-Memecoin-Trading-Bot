@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "hexnome",
+  "author": "Kei",
   "url": "https://github.com/hexnome/grpc-copy-trading-sniper-bot.git",
   "license": "ISC",
   "dependencies": {
