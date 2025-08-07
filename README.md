@@ -91,8 +91,6 @@ These bots interact with live wallets and real tokens:
 
 ---
 
-## 💬 Support & Contact
-
-For questions, feature requests, or private bot development:
-- **E-Mail**: [hyperbuildx@adamglab.dev](mailto:hyperbuildx@adamglab.dev)  
-- **Telegram**: [@bettyjk_0915](https://t.me/bettyjk_0915)
+### 👤 Author
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
